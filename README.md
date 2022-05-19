@@ -5,7 +5,7 @@ Hi There 👋
 
 
 
-I have interest in  development, business analytics  👩‍💻 I have knowledge of programming language such as java html SQL CSS 
+I have interest in  development, Software Testing  👩‍💻 I have knowledge of programming language such as java html SQL CSS 
 
 
 
